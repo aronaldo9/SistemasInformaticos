@@ -6,7 +6,7 @@
 | `git status`                    | Muestra el estado actual del repositorio, incluyendo archivos modificados y no confirmados. |
 | `git status -s`                 | Igual que el anterior, pero muestra los resultados en formato más corto. |
 | `git add <file>`                | Agrega un archivo al área de preparación (stage). |
-| `git commit -m "message"`       | Confirma los cambios agregados al área de preparación y agrega un mensaje que describe los cambios realizados. |
+| `git commit -m <message>`       | Confirma los cambios agregados al área de preparación y agrega un mensaje que describe los cambios realizados. |
 | `git log`                       | Muestra el historial de commits del repositorio.
 | `git rm <file>`                 | Se usa para borrar archivos.
 | `git config`                    | Establece una configuración específica del usuario.
